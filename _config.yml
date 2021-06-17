@@ -36,7 +36,12 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - writeups.md
+  - about.md
+
 minima:
+  skin: dark
   social_links:
     linkedin: john-ryan-lambert
     github: rylamb
