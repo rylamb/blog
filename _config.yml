@@ -31,8 +31,8 @@ github_username:  johnryanlambert
 linkedin_username: john-ryan-lambert
 
 # Build settings
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
@@ -40,7 +40,7 @@ show_excerpts: false
 
 header_pages:
   - writeups.md
-  - about.md
+    #  - about.md
 
 minima:
   skin: solarized dark
