@@ -43,7 +43,7 @@ header_pages:
     #  - about.md
 
 minima:
-  skin: solarized dark
+  skin: dark
   social_links:
     linkedin: john-ryan-lambert
     github: rylamb
